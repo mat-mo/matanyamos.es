@@ -1,0 +1,54 @@
+<nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="{{ .Site.BaseURL | relLangURL }}">
+      {{ .Site.Title }}
+    </a>
+    {{ if or .Site.Menus.main .Site.IsMultiLingual }}
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        {{ with .Site.Menus.main}}
+          {{ range sort . }}
+            <li class="navigation-item">
+              <a class="navigation-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+            </li>
+          {{ end }}
+        {{ end }}
+        {{ if .Site.IsMultiLingual }}
+          {{ $node := . }}
+          {{ .Scratch.Set "separator" true }}
+          {{ range (default .Site.Home.AllTranslations .Translations) }}
+            {{ if ne $.Site.Language .Language }}
+              {{ if $node.Scratch.Get "separator" }}
+                <li class="navigation-item menu-separator">
+                  <span>|</span>
+                </li>
+                {{ $node.Scratch.Set "separator" false }}
+              {{ end }}
+              <li class="navigation-item">
+                <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+              </li>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      </ul>
+<!-- Matomo -->
+<script type="text/javascript">
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//foss.co.il/matomo/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+    {{ end }}
+  </section>
+</nav>
