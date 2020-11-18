@@ -20,7 +20,7 @@ pygmentsCodeFencesGuessSyntax = true
     info = "Trying to do the right thing"
     avatarURL = "images/matanya.jpg"
     #gravatar = "john.doe@example.com"
-    footerContent = "There is no box, think about it."
+    footerContent = "The content on this website is licensed under a Creative Commons Attribution 4.0 International License."
 
     dateFormat = "January 2, 2006"
 

@@ -66,11 +66,8 @@ The additional ideas are:
 
 This is the feeling you have when you find **Enthusiastic Yes**
 
-![Really happy!](/images/peter-conlan-LEgwEaBVGMo-unsplash.jpg "really happy")
-Photo by [Peter
-Conlan](https://unsplash.com/@peterconlan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-on
-[Unsplash](https://unsplash.com/@peterconlan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![happy](/images/peter-conlan-LEgwEaBVGMo-unsplash.jpg "Photo by [Peter
+Conlon](https://unsplash.com/@peterconlan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [unsplash](https://unsplash.com/@peterconlan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)")
 
 ## Outcomes of hiring a senior
 
