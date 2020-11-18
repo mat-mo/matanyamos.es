@@ -20,7 +20,7 @@ pygmentsCodeFencesGuessSyntax = true
     info = "Trying to do the right thing"
     avatarURL = "images/matanya.jpg"
     #gravatar = "john.doe@example.com"
-    footerContent = "I would love to talk to you"
+    footerContent = "There is no box, think about it."
 
     dateFormat = "January 2, 2006"
 
@@ -66,28 +66,27 @@ pygmentsCodeFencesGuessSyntax = true
   author = "authors"
 
 [[params.social]]
-    name = "Github"
-    icon = "fa fa-github"
-    weight = 1
-    url = "https://github.com/mat-mo/"
-[[params.social]]
     name = "Wikipedia"
     icon = "fa fa-wikipedia-w"
-    weight = 2
+    weight = 1
     url = "https://he.wikipedia.org/wiki/user:Matanya"
+[[params.social]]
+    name = "Github"
+    icon = "fa fa-github"
+    weight = 2
+    url = "https://github.com/mat-mo/"
 [[params.social]]
     name = "LinkedIn"
     icon = "fa fa-linkedin-square"
-    weight = 4
+    weight = 3
     url = "https://www.linkedin.com/in/matanya-moses-246472176/"
 [[params.social]]
     name = "RSS"
     icon = "fa fa-rss"
-    weight = 6
+    weight = 4
     url = "https://matanyamos.es/index.xml"
     rel = "alternate"
     type = "application/rss+xml"
-
 
 [languages]
     [languages.en]
@@ -105,8 +104,4 @@ pygmentsCodeFencesGuessSyntax = true
             weight = 2
             url = "posts/"
 
-            [[languages.en.menu.main]]
-            name = "Contact me"
-            weight = 5
-            url = "contact/"
 
