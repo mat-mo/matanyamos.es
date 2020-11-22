@@ -59,6 +59,11 @@ pygmentsCodeFencesGuessSyntax = true
     # Custom JS
     customJS = []
     
+[params.staticman]
+    endpoint = "https://comments.matanyamos.es"
+    username = "mat-mo"
+    repository = "matanyamos.es"
+    branch = "master"
 
 [taxonomies]
   category = "categories"
