@@ -59,9 +59,6 @@ pygmentsCodeFencesGuessSyntax = true
     # Custom JS
     customJS = []
     
-    remark42SiteID = "mywebpage"
-    remark42Url = "http://remark42.matanyamos.es"
-
 
 [taxonomies]
   category = "categories"
