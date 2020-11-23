@@ -59,12 +59,6 @@ pygmentsCodeFencesGuessSyntax = true
     # Custom JS
     customJS = []
     
-#[params.staticman]
-#    endpoint = "https://comments.matanyamos.es"
-#    username = "mat-mo"
-#   repository = "matanyamos.es"
-#    branch = "master"
-
 [taxonomies]
   category = "categories"
   series = "series"
@@ -82,14 +76,19 @@ pygmentsCodeFencesGuessSyntax = true
     weight = 2
     url = "https://github.com/mat-mo/"
 [[params.social]]
+    name = "Medium"
+    icon = "fa fa-medium"
+    weight = 3
+    url = "https://matanyam.medium.com"
+[[params.social]]
     name = "LinkedIn"
     icon = "fa fa-linkedin-square"
-    weight = 3
+    weight = 4
     url = "https://www.linkedin.com/in/matanya-moses-246472176/"
 [[params.social]]
     name = "RSS"
     icon = "fa fa-rss"
-    weight = 4
+    weight = 5
     url = "https://matanyamos.es/index.xml"
     rel = "alternate"
     type = "application/rss+xml"
