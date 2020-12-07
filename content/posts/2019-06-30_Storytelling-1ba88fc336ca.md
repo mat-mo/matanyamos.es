@@ -9,7 +9,7 @@ slug: /@matanyam/storytelling-1ba88fc336ca
 
 We all have a story. The main goal when presenting one is to pass on the essence of the story to your audiences. In order to achieve that, you’d need a few ingredients. They are easy to learn and implement, it only takes attention, and awareness to them.
 
-![](img/0__MM__RCfxX1JJXPS77.jpg)
+![](/images/0__MM__RCfxX1JJXPS77.jpg)
 
 When you want to pass on some message you need to:
 

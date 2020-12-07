@@ -9,7 +9,7 @@ slug: /@matanyam/how-to-hack-d8e7deb53d89
 
 On Friday I judged at a hackathon called [hackidc](http://2019.hackidc.com/). It made me think. We saw many great teams building interesting things. However, I noticed not all of them had a clear idea what they are trying to solve, or had a working piece of software. So since most of them were technical teams with great understanding of tech, I decided to share how I think a team in a hackathon should work in order to achieve great success. I will use the [OSI model](https://en.wikipedia.org/wiki/OSI_model) that most of the attendees would be familiar with.
 
-![](img/1__bTeu2jN__nepL1YHSldwPdg.png)
+![](/images/1__bTeu2jN__nepL1YHSldwPdg.png)
 
 **Physical Layer**
 

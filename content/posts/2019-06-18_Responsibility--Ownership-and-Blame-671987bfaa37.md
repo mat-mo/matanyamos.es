@@ -9,7 +9,7 @@ slug: /@matanyam/responsibility-ownership-and-blame-671987bfaa37
 
 How often are you responsible for something? quite often I guess. Every time you need to fulfill a task of any kind you are responsible for doing it. It doesn’t matter if you assigned it to yourself, or you have been assigned by someone else. Being responsible mainly means doing the required task when it is needed, in other words, on time. But there is a deeper meaning to being responsible, it is a moral ethos, known as [Moral responsibility](https://en.wikipedia.org/wiki/Moral_responsibility).
 
-![](img/1__grc7__fAStDHI4____Tm2EQ3g.jpeg)
+![](/images/1__grc7__fAStDHI4____Tm2EQ3g.jpeg)
 
 Being responsible for something doesn’t mean you feel you own it. Especially if a task was assigned to you without context. In order to connect with a topic and feel ownership, one must understand the reasoning, motivation and desired goal of the bigger picture. Usually people want to be part of a bigger thing, and understand why something was requested from them. It is usually not a problem if the needed task was initiated by the person actually doing the task, as the entire picture of why a task is needed is clear to them.
 

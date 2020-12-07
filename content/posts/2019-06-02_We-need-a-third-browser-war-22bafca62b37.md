@@ -11,11 +11,11 @@ In the late nineteens we had the first war in which Internet Explorer stood agai
 
 The first war gave us JavaScript, very rapid innovation in web browsers and standards. Once that war was over Internet Explorer 6.0 was out, and we all know to what stagnation that led, with Microsoft having over 90% of market share. Between 2001 and 2006 there was only one update to Internet Explorer.
 
-![](img/1__IpYqAJn6wYjOgIFIyQejfg.png)
+![](/images/1__IpYqAJn6wYjOgIFIyQejfg.png)
 
 The second war brought us HTML 5, the rise of webkit and Chrome dominance. This is the state De-facto we are in now. Here is a map representing the most popular browser per country — color coded.
 
-![](img/1__g4FcG3hwOKPrs9bxcnVCXQ.png)
+![](/images/1__g4FcG3hwOKPrs9bxcnVCXQ.png)
 
 At this point in time, it is clear Chrome, owned by google won the second browser war.
 

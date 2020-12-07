@@ -12,7 +12,7 @@ Have you ever been so focused on fulfilling a task you actually miss or ignore a
 *   A senior, experienced person that is used to tutor others, but when doing the same task themselves they fail due to hubris or [tunnel vision](http://Tunnel%20vision%20%28metaphor%29)
 *   A junior trying to debug an issue and decides what is the issue before nailing down the root cause. Usually avoiding evidence pointing at other root cause due to tunnel vision and lack of experience.
 
-![](img/1__vZ1NZu0DlwP__c3Uzzc5wYg.jpeg)
+![](/images/1__vZ1NZu0DlwP__c3Uzzc5wYg.jpeg)
 
 When getting into the scenario of a task or an issue that needs full attention, it is very dangerous to get into tunnel vision mode.
 

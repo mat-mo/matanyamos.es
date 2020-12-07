@@ -9,7 +9,7 @@ slug: /@matanyam/wearing-a-few-hats-66c2807fbcb3
 
 Each and every one of us has two roles in our professional lives. I like to call them minister of interior and minister of foreign affairs. In the role of being the minister of interior you handle your communication internally, in your team, with your team members. In the role of being the minister of foreign affairs you handle communications with other teams in your company, vendors, customers, and basically anyone else that is not on your team.
 
-![](img/0__CEMdLZN6bVO2Gn7j.jpg)
+![](/images/0__CEMdLZN6bVO2Gn7j.jpg)
 
 The role of a manager with those hats is a role I’d like to look at a bit more. As a starting point, we should look at the hats a bit deeper in the context of a manager.
 
@@ -31,4 +31,4 @@ Since time is the most precious resource one has, it is crucial to choose which 
 
 You should evaluate from time to time that your priorities are still at the right place. Adjusting the priority is especially important at times of change. Keep adjusting the nob.
 
-![](img/1__sqfFn__KinYInnq5L__DU6Sg.jpeg)
+![](/images/1__sqfFn__KinYInnq5L__DU6Sg.jpeg)

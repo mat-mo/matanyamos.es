@@ -9,7 +9,7 @@ slug: /@matanyam/building-trust-2c09f58d7eb
 
 The most important aspect in successful collaboration is an underlying trust. Why is trust so crucial to collaboration? trust gives people the psychological safety that their contribution will be taken seriously, in a respecting manner. An individual will not be interested in joining a team or work with a team where trust is missing, unless forced to.
 
-![](img/0__xKd0WPUgOz82ZW9U.jpg)
+![](/images/0__xKd0WPUgOz82ZW9U.jpg)
 
 There are a few circles of trust:
 

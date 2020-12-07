@@ -11,7 +11,7 @@ I am human, and as a result of being one, I do mistakes. I try really hard to av
 
 One way of reducing the likelihood of mistakes is automating tasks, and another way is creating processes. I might cover them in future posts, but this time I want to cover what to do after the failure had accord.
 
-![](img/1__CjUSbw69tMokd5SjCp76KQ.jpeg)
+![](/images/1__CjUSbw69tMokd5SjCp76KQ.jpeg)
 
 Once a failure had happened, there is an opportunity to learn. In order to learn, two things should be in place before the learning can take place.
 

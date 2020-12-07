@@ -9,7 +9,7 @@ slug: /@matanyam/supporting-a-customer-the-right-way-908d181e2ffb
 
 AWS has [four types of ec2 computing resources](https://aws.amazon.com/ec2/pricing/). On demand, reserved, dedicated and spot. On demand, as it name indicates is a pay as you go program. The instance has a price, and you pay it as long as your instance is running. Reserved, is a plan where you commit to using a resource for one or three years, and pay up front if you wish, to get discounts of 30%–60% of the on demand list price. Dedicated are physical instances that are 100% yours, as the name indicates. The spot type is based on AWS extra capacity, and works on requesting spot capacity. You can read more about how it works [here](https://aws.amazon.com/blogs/compute/new-amazon-ec2-spot-pricing/), this can lead to up to 80% saving in cost.
 
-![](img/1__7GFS6oBxGfxLYD9aifNJsQ.jpeg)
+![](/images/1__7GFS6oBxGfxLYD9aifNJsQ.jpeg)
 
 We use three ec2 types, for various workloads, we do not use dedicated. Some workloads are predictable, and can’t be interrupted, and for that we would use reserved instances. Some workloads are unpredictable, short lived and can’t be interrupted, so we use on demand for that. We use spot for any other workload. We use a company called [spotinst](https://spotinst.com/) to handle our spot fleet. The idea behind spotinst is to handle all the bidding, and instance replacement due to interruptions as transparently as possible. The instances are placed in an elastic group, and are handled in autoscaling policies.
 

@@ -11,7 +11,7 @@ One of the most important tasks of managers is to coach and give feedback. Howev
 
 Understanding how to give and receive quality feedback is a critical skill for any person. The way to give or receive quality feedback is fairly simple, but requires some practice. I will talk a bit about both ends of the feedback discussion.
 
-![](img/1__S70oYBEBy5n8OolYfyLXHA.png)
+![](/images/1__S70oYBEBy5n8OolYfyLXHA.png)
 
 How does a good feedback giving looks like?
 
@@ -47,7 +47,7 @@ Having the first sentence only does not give the person receiving the feedback a
 
 Joe Hirsch wrote a book called _The Feedback Fix,_ one of the points it highlights is not to dwell on what happened in the past, rather focus on the future. He calls his approach **feedforward**. Here is a summary of his points:
 
-![](img/1__tYUtz3QnlVguBu5RJdveCA.png)
+![](/images/1__tYUtz3QnlVguBu5RJdveCA.png)
 
 #### The feedback is timely
 
