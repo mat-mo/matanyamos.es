@@ -8,7 +8,7 @@ tags: ["Motivation", "Autonomy", "Mastery", "Purpose", "Intrinsic Motivation"]
 slug: /2019-02-17/this-post-is-motivating
 ---
 
-In my previous [post](https://matanyamos.es/posts/2019-02-10-retaining-people/) I wrote about retaining people. One of the most influencing factors on retention is motivation. I would like to explore that a bit.
+In my previous [post](https://www.matanyamos.es/posts/2019-02-10/retaining-people/) I wrote about retaining people. One of the most influencing factors on retention is motivation. I would like to explore that a bit.
 
 A motivated person does a great work, and influences others around them to become better. We would all love to have a recipe how to motivate people around us other than being motivated ourselves, but that turns out to be very complicated. How do you foster motivation and keep people motivated over time?
 
