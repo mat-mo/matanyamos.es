@@ -3,7 +3,7 @@ title: Building Trust
 description: Trust is the key to success, without trust your organization will crash
 date: '2019-03-10T10:41:14.442Z'
 categories: ["Trust"]
-tags: ["Trust", "Assume goof faith", "Competence"]
+tags: ["Trust", "Assume good faith", "Competence"]
 authors: ["Matanya Moses"]
 slug: /2019-03-10/building-trust
 ---
