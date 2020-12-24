@@ -5,7 +5,7 @@ description: >-
   forward and will be passed by its competitors.
 date: '2019-01-27T07:33:19.793Z'
 categories: ["Managment"]
-tags: ["Change Managemnt", "Trust"]
+tags: ["Change Managment", "Trust"]
 authors: ["Matanya Moses"]
 slug: /2019-01-27/managing-change
 ---
