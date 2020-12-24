@@ -4,7 +4,7 @@ description: 'Google Chrome took over, fight back'
 date: '2019-06-02T09:17:42.131Z'
 categories: ["Freedom"]
 tags: ["Advertising", "Google Chrome", "Firefox", "Browser Wars", "Adbocking"]
-author: ["Matanya Moses"]
+authors: ["Matanya Moses"]
 slug: /2019-06-02/we-need-a-third-browser-war
 ---
 

@@ -4,7 +4,7 @@ description: Trust is the key to success, without trust your organization will c
 date: '2019-03-10T10:41:14.442Z'
 categories: ["Trust"]
 tags: ["Trust", "Assume goof faith", "Competence"]
-author: ["Matanya Moses"]
+authors: ["Matanya Moses"]
 slug: /2019-03-10/building-trust
 ---
 

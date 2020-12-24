@@ -4,12 +4,13 @@ description: None of this blog post was invented by me
 date: '2019-05-05T10:56:46.770Z'
 categories: ["Managment"]
 tags: ["Not Invented Here"]
+authors: ["Matanya Moses"]
 slug: /2019-05-05/not-invented-here
 ---
 
 I wanted to write this week about the [not invented here](https://en.wikipedia.org/wiki/Not_invented_here) syndrome (NIH from now on). When I was preparing the materials and the readings I stumbled upon [Quincy Larson](https://medium.com/u/17756313f41a)’s great post [How to stand on the shoulders of giants](https://medium.freecodecamp.org/how-to-stand-on-shoulders-16e8cfbc127bhttps://medium.freecodecamp.org/how-to-stand-on-shoulders-16e8cfbc127b). I suggest you read his post. However, I would like to look a bit around how to identify this syndrome and how to cure it.
 
-{{< figure src="bingo.jpg" caption="Photo by [Ramon Vullings](https://www.flickr.com/photos/83445692@N03/16600377389), CC-BY-2.0" >}}
+{{< figure src="bingo.png" caption="Photo by [Ramon Vullings](https://www.flickr.com/photos/83445692@N03/16600377389), CC-BY-2.0" >}}
 
 There are many reasons why not to develop something. And there are many reasons to do. The main question is whether we pick the correct ones when we make the decision. Basically looking at the wider question of build or buy can help make the right decision. When you get to the point you need to make the decision, having a pro and against list for developing in-house or using third party, open source or not should be considered based on objectives, not subjective found in the list in the image above.
 

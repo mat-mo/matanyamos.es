@@ -3,7 +3,7 @@ title: This post is motivating
 description: How to motivate people to do excellent work?
 date: '2019-02-17T08:13:37.876Z'
 categories: ["Managment"]
-author: ["Matanya Moses"]
+authors: ["Matanya Moses"]
 tags: ["Motivation", "Autonomy", "Mastery", "Purpose", "Intrinsic Motivation"]
 slug: /2019-02-17/this-post-is-motivating
 ---
@@ -54,3 +54,5 @@ Ben Horowitz writes about his ride in building and selling laudcloud, later name
 In the book Horowitz describes the time he decided to sell most of his cloud business to EDS and pivot into a software company instead of a cloud company. While doing so, the company needed to shift and he gathered his 80 employees and said he is going to ask them for six months of barely seeing their families and working crazy hours. Over the years he heard people describing that period of time as being one of their best times in their careers. When he asked why he was told people really felt they are part of something bigger. I do not suggest that working 18–20 hours a day 7 days a week is a good way to connect people to something bigger, but it is clear from the book that the people in this specific case where very happy with their decision to stay. The fact that some of them got billionaires later probably did help a bit in retrospective.
 
 To summarize, keeping people motivated is complicated. I advice against using extrinsic motivation, and suggest leaders to draw a clear vision which is bigger than what one individual can achieve on his own. Connect people to that vision, while always saying the truth about the current status of your execution against the grand story. Once your story is laid out, let people figure out how to get there on their own and let them excel at it.
+
+---

@@ -3,9 +3,9 @@ title: Better decision making with data
 description: Making decisions is hard, make better decisions using data
 date: '2019-01-20T10:41:14.442Z'
 categories: ["Decision making"]
-author: ["Matanya Moses"]
+authors: ["Matanya Moses"]
 tags: ["Decision making", "Data driven"]
-slug: /2019-01-20/Hire-Sooniors
+slug: /2019-01-20/Better-decision-making-with-data
 ---
 
 Each and every one of us has to make decisions. This is part of life. The

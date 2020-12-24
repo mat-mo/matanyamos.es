@@ -4,7 +4,7 @@ description: Hacking using the OSI model
 date: '2019-04-14T08:55:59.940Z'
 categories: ["Hakcathons"]
 tags: ["Osi Model", "Hackathons", "MVP"]
-author: ["Matanya Moses"]
+authors: ["Matanya Moses"]
 slug: /2019-04-14/how-to-hack
 ---
 

@@ -3,7 +3,7 @@ title: The five pillars of feedback
 description: Giving and receiving feedback is a gift
 date: '2019-03-03T09:23:26.544Z'
 categories: ["Managment"]
-tags: ["feedback", "feedforward"]
+tags: ["Feedback", "Feedforward"]
 authors: ["Matanya Moses"]
 slug: /2019-03-03/the-five-pillars-of-feedback
 ---

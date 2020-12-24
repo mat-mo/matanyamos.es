@@ -6,7 +6,7 @@ description: >-
 date: '2019-01-27T07:33:19.793Z'
 categories: ["Managment"]
 tags: ["Change Managemnt", "Trust"]
-author: ["Matanya Moses"]
+authors: ["Matanya Moses"]
 slug: /2019-01-27/managing-change
 ---
 
@@ -42,3 +42,5 @@ Why was this change so successful? There are a few key points her.
 Those points outlined above might take several hours to several years in very complicated changes, but the key in every change you want to lead is to build trust with all the people involved. If you have toxicity among the people affected by the change it will be somewhere between very hard to impossible to make the desired change.
 
 Go innovate!
+
+---

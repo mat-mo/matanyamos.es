@@ -4,7 +4,7 @@ description: Delegation is crucial for success
 date: '2019-03-24T12:04:31.559Z'
 categories: ["Managment"]
 tags: ["Delegation", "Leadership", "Results Orientation"]
-author: ["Matanya Moses"]
+authors: ["Matanya Moses"]
 slug: /2019-03-24/delegate
 ---
 

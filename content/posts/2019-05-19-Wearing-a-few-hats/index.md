@@ -3,8 +3,8 @@ title: Wearing a few hats
 description: Everyone in an organization has at least two interfaces, I call them hats. The names are minister of interior and minister of foreign affairs hats, learn how to adjust both
 date: '2019-05-19T08:26:19.720Z'
 categories: ["Managment"]
-tagss: ["Team Management", "Interfaces"]
-author: ["Matanya Moses"]
+tags: ["Team Management", "Interfaces"]
+authors: ["Matanya Moses"]
 slug: /2019-05-19/wearing-a-few-hats
 ---
 

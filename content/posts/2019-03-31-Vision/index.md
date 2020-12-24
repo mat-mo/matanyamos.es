@@ -4,7 +4,7 @@ description: You must have a vision, without one, you have no clue where you are
 date: '2019-03-31T15:20:12.123Z'
 categories: ["Managment"]
 tags: ["Vision", "Mission Statement"]
-author: ["Matanya Moses"]
+authors: ["Matanya Moses"]
 slug: /2019-03-31/vision
 ---
 

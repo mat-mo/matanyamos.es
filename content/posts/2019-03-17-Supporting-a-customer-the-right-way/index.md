@@ -4,7 +4,7 @@ description: Turning a lemon into lemonade in customer support
 date: '2019-03-17T07:56:47.293Z'
 categories: ["Customer support"]
 tags: ["AWS", "Spotinst", "Customer Support", "Spot"]
-author: ["Matanya Moses"]
+authors: ["Matanya Moses"]
 slug: /2019-03-17/supporting-a-customer-the-right-way
 ---
 

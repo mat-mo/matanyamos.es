@@ -4,7 +4,7 @@ description: Know your metrics to improve your business
 date: '2019-06-10T08:00:36.372Z'
 categories: ["Managment"]
 tags: ["Metrics", "Grafana", "Insights", "Monitoring"]
-author: ["Matanya Moses"]
+authors: ["Matanya Moses"]
 slug: /2019-06-10/measure-or-it-is-not-important
 ---
 

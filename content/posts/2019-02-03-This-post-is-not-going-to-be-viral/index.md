@@ -5,7 +5,7 @@ description: >-
   video, a celebrity or a cat.
 date: '2019-02-03T08:22:57.699Z'
 categories: ["Trust"]
-author: ["Matanya Moses"]
+authors: ["Matanya Moses"]
 tags: ["Networking", "Trust", "Six Degrees Of Separation", "Viral", "Weak Ties"]
 slug: /2019-02-03/this-post-is-not-going-to-be-viral
 ---
@@ -45,3 +45,5 @@ Building a network is based on building trust. Every action you take will either
 The best way to build a strong and diverse network is by being helpful, friendly and trustworthy. Use opportunities to connect with people you are in touch with, even if you do not have a close relationship with them, this will amplify your network diversity and will help you reach people you would not reach otherwise.
 
 Diversity is an important point in your network. It helps you see and hear voices and points of view you would not see otherwise and helps you reduce the [echo chamber effect](https://en.wikipedia.org/wiki/Echo_chamber_%28media%29). A diverse network will also surface opportunities that would not be available to people with similar or identical connections to their own interests and habits.
+
+---

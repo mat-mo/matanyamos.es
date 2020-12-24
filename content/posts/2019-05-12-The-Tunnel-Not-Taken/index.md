@@ -4,7 +4,7 @@ description: How Robert Frost can help in cases of tunnel vision
 date: '2019-05-12T08:25:14.860Z'
 categories: ["Decision Making"]
 tags: ["The Road Not Taken", "Tunnel Vision"]
-author: ["Matanya Moses"]
+authors: ["Matanya Moses"]
 slug: /2019-05-12/the-tunnel-not-taken
 ---
 

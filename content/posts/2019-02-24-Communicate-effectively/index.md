@@ -31,7 +31,7 @@ When one tries to communicate a message, it is highly important to be clear and 
 
 Most miscommunications don’t end up with an atomic bomb, but might have uncomfortable consequences. Here is a famous illustration
 
-{{< figure src="miscomunicate.jpg" caption="[Project cartoon](http://www.projectcartoon.com/cartoon/2) [CC BY-SA 3.0] (http://creativecommons.org/licenses/by-sa/3.0/)" >}}
+{{< figure src="miscomunicate.png" caption="[Project cartoon](http://www.projectcartoon.com/cartoon/2), [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)" >}}
 
 The main point in effective communication is ‘Do Not Surprise’. When you are trying to convey a message, be sure your audiences know what you are talking about, are on the same page as you are, and are seeing your point of view. Once you have conveyed your message clearly, execute its outcome as soon as possible, preventing a period of FUD (fear, uncertainty, doubt). Of course, if your message is just a command you can do that, but a normal communication is two-sided. Do not have a monologue, make sure the other side of the conversion has a say, and is heard. Once all opinions have been heard, it is the time to come to a conclusion and execute it.
 

@@ -3,7 +3,7 @@ title: Hire Sooniors
 description: You should hire early professionals and grow them
 date: '2019-01-13T10:41:14.442Z'
 categories: ["Hiring"]
-author: ["Matanya Moses"]
+authors: ["Matanya Moses"]
 tags: ["Hiring", "Careers", "Motivation"]
 slug: /2019-01-13/Hire-Sooniors
 ---

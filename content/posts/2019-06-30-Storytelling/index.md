@@ -4,7 +4,7 @@ description: The art of storytelling starts with planning, you should share your
 date: '2019-06-30T09:45:34.826Z'
 categories: ["Managment"]
 tags: ["Presentations", "Storytelling"]
-author: ["Matanya Moses"]
+authors: ["Matanya Moses"]
 slug: /2019-06-30/storytelling
 ---
 
