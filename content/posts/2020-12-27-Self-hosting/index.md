@@ -77,7 +77,7 @@ The only service I didn't really replace is Linkedin, I don't know what to do wi
 
 ### Git server
 
-Git is also an open point. I keep most of my stuff on github. I do think I might need to move from github to a personal hosted gitlab, once I find the time and energy. The sole reason I am on github is the fact it is easy to collaborate this way, which is not the case on a personal owned instance, if I move my personal only things, which I don't collaborate on, that would be a good first move. It will also help if AWS amplify would support private git servers, and not only public github and gitlab services. But that would probably be some work for the futuer. 
+Git is also an open point. I keep most of my stuff on github. I do think I might need to move from github to a personal hosted gitlab, once I find the time and energy. The sole reason I am on github is the fact it is easy to collaborate this way, which is not the case on a personal owned instance, if I move my personal only things, which I don't collaborate on, that would be a good first move. It will also help if AWS amplify would support private git servers, and not only public github and gitlab services. But that would probably be some work for the future. 
 
 ## Cost
 
