@@ -49,11 +49,11 @@ I decided to migrate to something else. I moved to [Fressrss](https://www.freshr
 
 ### Nextcloud
 
-As the use of smartphones was getting more and more common, and the fact Android and iOS default to sending data to Google/Apple respectively, I figured it was time to re-think my entire self hosting platform. After some thinking, testing and benchmarking I decided I should use Nextcloud as my sole platform for storing my data. I use Nextcloud to store my files, mainly photos and movies taken by my family over the years, but also documents that used to reside on google drive, and my personal music that used to be on a NAS. In addition, I added the mail app, and the news app from the Nextcloud store.
+As the use of smartphones was getting more and more common, and the fact Android and iOS default to sending data to Google/Apple respectively, I figured it was time to re-think my entire self hosting platform. After some thinking, testing and benchmarking I decided I should use [Nextcloud](https://nextcloud.org) as my sole platform for storing my data. I use Nextcloud to store my files, mainly photos and movies taken by my family over the years, but also documents that used to reside on google drive, and my personal music that used to be on a NAS. In addition, I added the mail app, and the news app from the Nextcloud store.
 
 I have configured our smartphones to upload images taken by our cameras to our Nextcloud instance running on our Debian + yunohost server. And took out any data that was stored on Google using [Google takeout](https://takeout.google.com). 
 
-I didn't want to store our data on EBS drives, and it is not so durable compared to other services, and much more expensive. I decided to use the S3 external storage feature in Nextcloud, on order to get the low cost, high durability for our files. 
+I didn't want to store our data on EBS drives, and it is not so durable compared to other services, and much more expensive. I decided to use the S3 external storage feature in Nextcloud, on order to get low cost, high durability for our files. 
 
 As a matter of fact, I added the calendar, talk, contact and audio player apps as well, in order to cover for a good calendaring app, a communication app instead of meet/whatsapp/telegram/signal/hangout etc, contacts instead of google contacts my phone was using by default, and the audio player to play my music. 
 
