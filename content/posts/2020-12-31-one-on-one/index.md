@@ -2,7 +2,7 @@
 title: "The importance of One on One"
 description: Any leader should conduct regular meetings with the people they lead, this post covers why.
 date: 2020-12-31T09:27:11+02:00
-tags: ["Meetings", "Effective Meetings", one-on-one]
+tags: ["Meetings", "Effective Meetings", One-on-One]
 categories: ["Management"]
 authors:  ["Matanya Moses"]
 slug: "2020-12-31/one-on-one"
