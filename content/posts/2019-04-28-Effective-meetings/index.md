@@ -38,8 +38,7 @@ agenda is provided by the person inviting you, simply clearly state **before** t
 
 ### Rule #3: Be on time, and stick to time
 
-In the case you found the meeting is needed and you would like to join it, [be
-on time](http://Running Effective Marketing Meetings). When you are late, you are wasting other peoples time, and require repeating things that were already said just for you. In addition, if the habit around you is to be late, set an example. Be on time, and start your meetings just on time. Of course, finish them on time as well, if you find it hard to get to a conclusion, present the data you have until that point, and call for a follow up.
+In the case you found the meeting is needed and you would like to join it, [be on time](http://Running Effective Marketing Meetings). When you are late, you are wasting other peoples time, and require repeating things that were already said just for you. In addition, if the habit around you is to be late, set an example. Be on time, and start your meetings just on time. Of course, finish them on time as well, if you find it hard to get to a conclusion, present the data you have until that point, and call for a follow up.
 
 ### Rule #4: Find your actionable, and leave
 

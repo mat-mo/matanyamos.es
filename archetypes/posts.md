@@ -10,7 +10,7 @@ slug: "2006-01-02/Title"
 
 Post text<!--more-->
 
-{{< figure src="peter_conlan_unsplash.jpg" caption=" Photo by [Peter Conlon](https://unsplash.com/@peterconlan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [unsplash](https://unsplash.com/@peterconlan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)" >}}
+{{< figure src="peter_conlan_unsplash.jpg" caption=" Photo by [Peter Conlon](https://unsplash.com/@peterconlan) on [unsplash](https://unsplash.com)" >}}
 
 
 ---
