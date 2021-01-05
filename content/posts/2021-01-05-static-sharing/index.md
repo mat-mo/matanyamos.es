@@ -3,7 +3,7 @@ title: "Share files with Grandma using git"
 description: "A short tutorial on sharing large files without installing
 anything on grandma's computer, using git"
 date: 2021-01-05T14:55:27+02:00
-tags: ["webtorrent", "github", "static site", "git"]
+tags: ["Webtorrent", "Github", "Static site", "Git"]
 categories: ["Technology"]
 authors:  ["Matanya Moses"]
 slug: "2006-01-02/static-sharing"
