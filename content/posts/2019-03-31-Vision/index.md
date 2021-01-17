@@ -2,7 +2,7 @@
 title: Vision
 description: You must have a vision, without one, you have no clue where you are going
 date: '2019-03-31T15:20:12.123Z'
-categories: ["Managment"]
+categories: ["Management"]
 tags: ["Vision", "Mission Statement"]
 authors: ["Matanya Moses"]
 slug: /2019-03-31/vision

@@ -4,7 +4,7 @@ description: "One of the most important roles of a manager is to retain his
 people, learn how and why"
 date: 2019-02-10T15:35:06+02:00
 tags: ["Psychological Safety", "Employee Retention", "Motivation"]
-categories: ["Managment"]
+categories: ["Management"]
 authors:  ["Matanya Moses"]
 slug: /2019-02-10/retaining-people
 ---

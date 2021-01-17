@@ -4,8 +4,8 @@ description: >-
   Change is vital. A business that does not change and innovate does not move
   forward and will be passed by its competitors.
 date: '2019-01-27T07:33:19.793Z'
-categories: ["Managment"]
-tags: ["Change Managment", "Trust"]
+categories: ["Management"]
+tags: ["Change Management", "Trust"]
 authors: ["Matanya Moses"]
 slug: /2019-01-27/managing-change
 ---

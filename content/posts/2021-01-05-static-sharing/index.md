@@ -6,7 +6,7 @@ date: 2021-01-05T14:55:27+02:00
 tags: ["Webtorrent", "Github", "Static site", "Git"]
 categories: ["Technology"]
 authors:  ["Matanya Moses"]
-slug: "2006-01-02/static-sharing"
+slug: "2021-01-05/static-sharing"
 ---
 
 ## Can I share large video files of my kids with grandma?

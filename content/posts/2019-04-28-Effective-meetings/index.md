@@ -3,7 +3,7 @@ title: "Effective meetings: The rules"
 description: You don’t want to waste your time on bad meetings
 date: 2019-04-28T17:12:42+02:00
 tags: ["Meetings", "Effective Meetings", "Focus"]
-categories: ["Managment"]
+categories: ["Management"]
 authors:  ["Matanya Moses"]
 slug: "2019-04-28/effective-meetings"
 ---

@@ -2,7 +2,7 @@
 title: Learning from failures
 description: Using root cause analysis to learn from failure
 date: '2019-04-07T08:45:31.292Z'
-categories: ["Managment"]
+categories: ["Management"]
 tags: ["Root Cause Analysis", "Learning From Failure"]
 authors: ["Matanya Moses"]
 slug: /2019-04-07/learning-from-failures

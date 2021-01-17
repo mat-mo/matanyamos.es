@@ -2,7 +2,7 @@
 title: Not Invented here
 description: None of this blog post was invented by me
 date: '2019-05-05T10:56:46.770Z'
-categories: ["Managment"]
+categories: ["Management"]
 tags: ["Not Invented Here"]
 authors: ["Matanya Moses"]
 slug: /2019-05-05/not-invented-here

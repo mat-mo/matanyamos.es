@@ -2,7 +2,7 @@
 title: Storytelling
 description: The art of storytelling starts with planning, you should share your stories with the world
 date: '2019-06-30T09:45:34.826Z'
-categories: ["Managment"]
+categories: ["Management"]
 tags: ["Presentations", "Storytelling"]
 authors: ["Matanya Moses"]
 slug: /2019-06-30/storytelling
@@ -24,7 +24,12 @@ So 5F’s will lead you to a great presentation. OK, we should look into each F 
 
 **Figure out what story you want to tell**
 
-This is THE most crucial point. This is basically the known rule of “Look before you leap”. You can’t present a good presentation without a story in most cases (there are exceptions). So in order for your presentation to be good, think about a story. It would be nice if it had a [structure,](https://writingcooperative.com/fundamentals-of-story-structure-e199f131a891) but it can be a good story even if doesn’t have all the part of a story structure. Once you decided what would be the story, the climax should be your key points.
+This is THE most crucial point. This is basically the known rule of “Look before
+you leap”. You can’t present a good presentation without a story in most cases
+(there are exceptions). So in order for your presentation to be good, think
+about a story. It would be nice if it had a
+[structure,](https://writingcooperative.com/fundamentals-of-story-structure-e199f131a891)
+but it can be a good story even if it does not have all the parts of a story structure. Once you decided what would be the story, the climax should be your key points.
 
 **Focus on 1 or 2 key points**
 

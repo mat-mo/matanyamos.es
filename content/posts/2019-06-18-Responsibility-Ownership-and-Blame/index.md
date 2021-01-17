@@ -2,7 +2,7 @@
 title: 'Responsibility, Ownership and Blame'
 description: You can’t assign ownership
 date: '2019-06-18T07:13:58.501Z'
-categories: ["Managment"]
+categories: ["Management"]
 tags: ["Management", "Responsibility", "Ownership", "Blame", "Blameless"]
 authors: ["Matanya Moses"]
 slug: /2019-06-18/responsibility-ownership-and-blame

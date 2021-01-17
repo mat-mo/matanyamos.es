@@ -2,7 +2,7 @@
 title: 'Measure, or it is not important'
 description: Know your metrics to improve your business
 date: '2019-06-10T08:00:36.372Z'
-categories: ["Managment"]
+categories: ["Management"]
 tags: ["Metrics", "Grafana", "Insights", "Monitoring"]
 authors: ["Matanya Moses"]
 slug: /2019-06-10/measure-or-it-is-not-important
@@ -35,7 +35,9 @@ Of course those are the very basic measures, and you should measure deeper into 
 
 In the above example you can see a deeper look into the I/O rate of a disk array. It updates live and gives a sense of how hard the disk drives are working.
 
-You should assess what should be measured in your service, define how to measure it, and build a mechanism to collect those metrics and present them in a the widest possible way. That is not only true for infrastructure services, Let’s look at a more interesting, and possible less commons measurement.
+You should assess what should be measured in your service, define how to measure
+it, and build a mechanism to collect those metrics and present them to the
+largest possible audience. That is not only true for infrastructure services, Let’s look at a more interesting, and possible less commons measurement.
 
 #### Business metrics and measurements
 

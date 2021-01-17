@@ -2,7 +2,7 @@
 title: This post is motivating
 description: How to motivate people to do excellent work?
 date: '2019-02-17T08:13:37.876Z'
-categories: ["Managment"]
+categories: ["Management"]
 authors: ["Matanya Moses"]
 tags: ["Motivation", "Autonomy", "Mastery", "Purpose", "Intrinsic Motivation"]
 slug: /2019-02-17/this-post-is-motivating

@@ -2,7 +2,7 @@
 title: Delegate!
 description: Delegation is crucial for success
 date: '2019-03-24T12:04:31.559Z'
-categories: ["Managment"]
+categories: ["Management"]
 tags: ["Delegation", "Leadership", "Results Orientation"]
 authors: ["Matanya Moses"]
 slug: /2019-03-24/delegate
@@ -45,7 +45,7 @@ Another problematic issue that stems from the same source is the fear of
 
 *   not getting credit
 
-which also blocks delegation.
+Which also blocks delegation.
 
 The last one is
 
