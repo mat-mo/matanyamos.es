@@ -1,6 +1,6 @@
 ---
 title: "Leadership and Management"
-description: "Find out what leadership means and who to become a leader"
+description: "Find out what leadership means, how it differs from being a manger and how to become a leader"
 date: 2021-02-02T13:26:50+02:00
 tags: ["Leadership", "Management"]
 categories: ["Management"]
