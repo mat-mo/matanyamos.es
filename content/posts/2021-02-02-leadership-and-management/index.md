@@ -6,7 +6,7 @@ tags: ["Leadership", "Management"]
 categories: ["Management"]
 authors:  ["Matanya Moses"]
 series: ["Leadership Tuesday"]
-slug: "2006-02-02/leadership-and-management"
+slug: "2021-02-02/leadership-and-management"
 ---
 
 {{< figure src="leadership.jpg" caption="Photo by [Jehyun Sung](https://unsplash.com/@jaysung) on [Unsplash](https://unsplash.com/photos/6U5AEmQIajg)" >}}
