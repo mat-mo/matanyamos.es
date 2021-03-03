@@ -1,7 +1,8 @@
 baseURL = "https://matanyamos.es"
 title = "Matanya Moses"
 
-theme = "hugo-coder"
+#theme = "hugo-coder"
+theme = ["hugo-video", "hugo-coder"]
 
 languageCode = "en"
 defaultContentLanguage = "en"
