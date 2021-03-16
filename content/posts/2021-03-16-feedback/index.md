@@ -10,7 +10,7 @@ slug: "2021-03-16/feedback"
 
 ---
 I wrote about feedback
-[before](https://www.matanyamos.es/posts/2019-03-03/the-five-pillars-of-feedback/)
+[before](https://www.matanyamos.es/posts/2019-03-03/the-five-pillars-of-feedback/). 
 I would like to look at it this time from another angle. This post is going to
 be rather short, as I only want to point out the importance of giving and
 receiving feedback in all directions around you. Typically feedback is
